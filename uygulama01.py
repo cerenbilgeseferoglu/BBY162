@@ -1,3 +1,0 @@
-"""
-Hocam evde elektrikler kesildi...
-"""
