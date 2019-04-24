@@ -8,9 +8,8 @@ for i in liste:
     print(i)
 #soru3
 sozluk = {"Elma" : "Ağaçta yetişen bir tür meyve" , "Salatalık" : "Fidan üzerinde büyüyen bir tür sebze"}
-while True:
-  print("Lütfen kelimenin baş harfini büyük yazınız!!!")
-  girilen = input("Aradığınız kelimeyi giriniz:")
+print("Lütfen kelimenin baş harfini büyük yazınız!!!")
+girilen = input("Aradığınız kelimeyi giriniz:")
 if girilen in sozluk:
   print("Ağaçta Yetişen Bir Tür Meyve")
 else:
